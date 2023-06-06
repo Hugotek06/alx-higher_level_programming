@@ -1,0 +1,1 @@
+This repository contains a Python project that was developed using the Test-Driven Development (TDD) methodology. Test-Driven Development is a software development approach in which tests are written before any code is written. This process helps to ensure that the code is well-tested, maintainable, and extensible. and also use to run python code smoothly
